@@ -1,0 +1,1 @@
+SELECT * FROM sql_spark.deliveries Limit 0,20;

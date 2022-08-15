@@ -1,0 +1,32 @@
+city,count(city)
+Bangalore,65
+Chandigarh,35
+Delhi,74
+Mumbai,101
+Kolkata,77
+Jaipur,47
+Hyderabad,64
+Chennai,57
+"Cape Town",7
+"Port Elizabeth",7
+Durban,15
+Centurion,12
+"East London",3
+Johannesburg,8
+Kimberley,3
+Bloemfontein,2
+Ahmedabad,12
+Cuttack,7
+Nagpur,3
+Dharamsala,9
+Kochi,5
+Indore,9
+Pune,38
+Ranchi,7
+"Abu Dhabi",29
+NA,13
+Rajkot,10
+Kanpur,4
+Bengaluru,15
+Dubai,26
+Sharjah,12
